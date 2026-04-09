@@ -39,18 +39,17 @@ function App() {
       Hi, I'm Sharanya
     </h1>
     <p className="lead text-info fw-semibold">
-      Frontend Developer | React Developer
+      Full-Stack Developer 
     </p>
 
     <div className="mt-3">
-    <span className="badge bg-info text-dark m-1">React.js</span>
-    <span className="badge bg-info text-dark m-1">JavaScript</span>
-    <span className="badge bg-info text-dark m-1">TypeScript</span>
-    <span className="badge bg-info text-dark m-1">Node.js</span>
-    <span className="badge bg-info text-dark m-1">Express.js</span>
-    <span className="badge bg-info text-dark m-1">Python</span>
+    <span className="badge bg-info text-dark m-1">ASP.NET Core</span>
+    <span className="badge bg-info text-dark m-1">Web API</span>
+    <span className="badge bg-info text-dark m-1">React</span>
+    <span className="badge bg-info text-dark m-1">Javascript</span>
+    <span className="badge bg-info text-dark m-1">Typescript</span>
+    <span className="badge bg-info text-dark m-1">Node js</span>
     <span className="badge bg-info text-dark m-1">SQL</span>
-    <span className="badge bg-info text-dark m-1">. Net Core</span>
     <span className="badge bg-info text-dark m-1">REST APIs</span>
     </div>
 
@@ -68,11 +67,9 @@ function App() {
     <h2 className="text-info mb-4">About Me</h2>
 
     <p>
-      Frontend Developer with 2+ years of experience building responsive,
-      scalable web applications using <strong>React.js, JavaScript, TypeScript, Node JS, Express JS, .NET CORE, SQL</strong>,
-      and REST APIs. Experienced in developing reusable UI components,
-      integrating backend services, managing application state, and ensuring
-      cross-browser compatibility and performance optimization.
+      Full-stack Software Engineer with 2+ years of experience in building and maintaining scalable web applications using ASP.NET Core, React.js, JavaScript, and SQL.
+Experienced in developing RESTful APIs, implementing business logic, and working with databases using Entity Framework. Skilled in both frontend and backend development, including building reusable UI components, integrating backend services, and optimizing application performance.
+Strong experience in debugging, maintenance, and enhancing existing systems, with a focus on writing clean, efficient, and maintainable code.
     </p>
 
     <hr className="my-4 text-secondary" />
@@ -91,12 +88,12 @@ function App() {
 
     <div className="card bg-dark text-light shadow p-4">
       <h5 className="fw-bold">Software Engineer – Cybage</h5>
-      <p className="text-info mb-2">Nov 2023 – Present</p>
+      <p className="text-info mb-2">Nov 2023 – Mar 2026</p>
 
       <ul>
         <li>
-          Developed and maintained responsive web applications for enterprise
-          clients including ZF.
+          Designed and developed fullstack web applications, integrating React
+          dashboards with ASP.NET Core APIs..
         </li>
         <li>
           Built scalable UI components and integrated backend REST APIs for
@@ -190,13 +187,14 @@ function App() {
             <h5 className="card-title">USER MANAGEMENT SYSTEM</h5>
 
             <p className="text-info small">
-              Tech Stack: React.js, Node.js, Express.js, SQL, REST APIs
+              Tech Stack: React.js, .Net Core, SQL, REST APIs
             </p>
 
             <ul className="mt-3">
               <li>Developed a full-stack CRUD application for managing users and roles.</li>
-              <li>Implemented authentication and role-based access control.</li>
+              <li>Role-based UI using React(Admin, Manager, User)</li>
               <li>Integrated REST APIs and database operations for user data management.</li>
+              <li>Clean architecture with repository+service layers</li>
             </ul>
 
           </div>
@@ -235,7 +233,7 @@ function App() {
     <div className="contact-item mb-3">
       <i className="bi bi-github text-info me-2"></i>
       <a
-        href="https://github.com/Sharanya261"
+        href="https://github.com/SharanyaAyyalasomayajula"
         target="_blank"
         rel="noopener noreferrer"
         className="contact-link"
