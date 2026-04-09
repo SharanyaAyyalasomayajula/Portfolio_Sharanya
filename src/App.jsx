@@ -54,7 +54,7 @@ function App() {
     </div>
 
 
-    <a href="/resume.pdf" download className="btn btn-outline-info mt-4">
+    <a href="/Resume-sharanya.pdf" download className="btn btn-outline-info mt-4">
       Download Resume
     </a>
   </div>
